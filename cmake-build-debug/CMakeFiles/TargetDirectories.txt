@@ -1,0 +1,3 @@
+C:/Users/jamaa/transcript printer project/cmake-build-debug/CMakeFiles/transcript_printer_project.dir
+C:/Users/jamaa/transcript printer project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jamaa/transcript printer project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
